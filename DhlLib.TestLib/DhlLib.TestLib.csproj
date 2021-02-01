@@ -5,7 +5,8 @@
     <RepositoryUrl>https://github.com/dhl-ru/DhlLib.TestLib</RepositoryUrl>
     <PackageReleaseNotes>first ver</PackageReleaseNotes>
     <Description>https://github.com/dhl-ru/DhlLib.TestLib</Description>
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 </Project>
+ 
